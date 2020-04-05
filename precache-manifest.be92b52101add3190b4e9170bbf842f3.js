@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c55fa55d12218bdfc0174d8d0b6d90ef",
+    "revision": "1d43627ec40164b1df1d21da198078b1",
     "url": "/Crio-Launch-Feb-2020-kulkarnirutvikvishwas/index.html"
   },
   {
-    "revision": "fb9e9a551245d6e2cb97",
+    "revision": "c774609906dc0100b2cd",
     "url": "/Crio-Launch-Feb-2020-kulkarnirutvikvishwas/static/css/2.57ddf7ad.chunk.css"
   },
   {
-    "revision": "0851861d1461b3f3c682",
+    "revision": "3994d2c18c4718714076",
     "url": "/Crio-Launch-Feb-2020-kulkarnirutvikvishwas/static/css/main.5db1380d.chunk.css"
   },
   {
-    "revision": "fb9e9a551245d6e2cb97",
-    "url": "/Crio-Launch-Feb-2020-kulkarnirutvikvishwas/static/js/2.e6bde774.chunk.js"
+    "revision": "c774609906dc0100b2cd",
+    "url": "/Crio-Launch-Feb-2020-kulkarnirutvikvishwas/static/js/2.b358926b.chunk.js"
   },
   {
     "revision": "d466ab9648f013dea081956fc7c904f3",
-    "url": "/Crio-Launch-Feb-2020-kulkarnirutvikvishwas/static/js/2.e6bde774.chunk.js.LICENSE.txt"
+    "url": "/Crio-Launch-Feb-2020-kulkarnirutvikvishwas/static/js/2.b358926b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0851861d1461b3f3c682",
-    "url": "/Crio-Launch-Feb-2020-kulkarnirutvikvishwas/static/js/main.5e6df4fa.chunk.js"
+    "revision": "3994d2c18c4718714076",
+    "url": "/Crio-Launch-Feb-2020-kulkarnirutvikvishwas/static/js/main.3308fef9.chunk.js"
   },
   {
     "revision": "7a4bc4d6aad7d2f485e7",
